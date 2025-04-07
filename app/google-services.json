@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "864135089127",
+    "project_id": "dashmart-13b2f",
+    "storage_bucket": "dashmart-13b2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864135089127:android:96417b94d22c38ecf94b42",
+        "android_client_info": {
+          "package_name": "com.greeshma.dashmart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZ86Ik1XJyDOLXJ_Z17WhfF-Xm_BSN74k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
